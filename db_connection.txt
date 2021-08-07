@@ -1,4 +1,0 @@
-
-
-
-Scaffold-DbContext "Server=localhost;Database=webapi;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
